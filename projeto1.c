@@ -1,5 +1,4 @@
 // Raul Vilhora Cardoso Matias, 32267274
-// Bruno Lauand Ferrão, 32217994
 
 #include <stdio.h>
 #include <pthread.h>
