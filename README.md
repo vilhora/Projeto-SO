@@ -22,10 +22,10 @@
 - Executar o arquivo compilado <code>./"nome-do-arquivo"</code>
 
 
-<img src="/Prints/print2.png">
+<img src="print2.png">
 
 
 # Print da execução
 
 
-<img src="/Prints/print.png">
+<img src="print.png">
